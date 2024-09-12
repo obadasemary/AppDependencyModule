@@ -16,9 +16,9 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(path: "../BrandUseCase"),
-        .package(path: "../BrandRepository"),
-        .package(path: "../NetworkLayer")
+        .package(url: "https://github.com/obadasemary/BrandUseCase.git", .upToNextMajor(from: "1.0.3")),
+        .package(url: "https://github.com/obadasemary/BrandRepository.git", .upToNextMajor(from: "1.0.2")),
+        .package(url: "https://github.com/obadasemary/NetworkLayer.git", .upToNextMajor(from: "1.0.6")),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.

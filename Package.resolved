@@ -1,0 +1,42 @@
+{
+  "originHash" : "d873a7f1dbc31848c6ab15a5b554fa4707cab983932e88e707425ff48060d66e",
+  "pins" : [
+    {
+      "identity" : "brandrepository",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/obadasemary/BrandRepository.git",
+      "state" : {
+        "revision" : "ebb2fa1c840a29c528f103dd92914fa547a2cd90",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "brandusecase",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/obadasemary/BrandUseCase.git",
+      "state" : {
+        "revision" : "70346e729982e33c489ea02bc13188cd1b1daf7d",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "coreapi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/obadasemary/CoreAPI.git",
+      "state" : {
+        "revision" : "9df7eef61ec17657adf619b97f02ab3cfe974168",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "networklayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/obadasemary/NetworkLayer.git",
+      "state" : {
+        "revision" : "a132fd09f0c3806f2489e5061fa1ef8fba81cfb1",
+        "version" : "1.0.6"
+      }
+    }
+  ],
+  "version" : 3
+}
